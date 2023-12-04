@@ -1,6 +1,6 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
-
+# tt
 # Напишите программу для получения названий последних статей из блога:
 
 url = 'https://www.oreilly.com/radar/'
